@@ -3,5 +3,4 @@ my code is 🍝 and my skills are lacking
 
 current languages:
 - lua
-- c#
 - python
